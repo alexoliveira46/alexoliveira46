@@ -1,4 +1,6 @@
-## Olá!
+## 👋 Olá, me chamo Alex!
+Sou alguém apaixonado por tecnologia, sempre buscando aprender e criar soluções úteis. Gosto de desenvolver projetos práticos, explorar novas ferramentas e compartilhar o que aprendo no caminho.
+Aqui você vai encontrar um pouco do que venho estudando e construindo. Sinta-se à vontade para explorar e contribuir!
 <div align="center">
   <a href="https://github.com/alexoliveira46">
 <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexoliveira46&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/> -->
