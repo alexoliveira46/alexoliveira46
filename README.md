@@ -1,4 +1,10 @@
-## 👋 Olá, me chamo Alex!
+<div>
+  <h1>👨‍💻 Alex Oliveira</h1>
+</div>
+
+## 
+ <p dir="auto"><strong><code>Software Engineer</code></strong></p>
+👋 Olá, me chamo Alex!
 Sou alguém apaixonado por tecnologia, sempre buscando aprender e criar soluções úteis. Gosto de desenvolver projetos práticos, explorar novas ferramentas e compartilhar o que aprendo no caminho.
 Aqui você vai encontrar um pouco do que venho estudando e construindo. Sinta-se à vontade para explorar e contribuir!
 <div align="center">
