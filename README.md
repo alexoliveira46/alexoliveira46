@@ -1,7 +1,5 @@
-<div>
-  <h1>👨‍💻 Alex Oliveira</h1>
-</div>
 
+  <h1>👨‍💻 Alex Oliveira</h1>
 ## 
  <p dir="auto"><strong><code>Software Engineer</code></strong></p>
 👋 Olá, me chamo Alex!
